@@ -17,7 +17,7 @@ p{
 }
 
 section{
-    box-shadow: inset;outline-width: 15px;outline-color: orangered;margin-top:100PX;border-radius: 15px;margin-bottom: 15px;font-size: small;margin-left: 400px;margin-right: 400px;
+    box-shadow: inset;outline-width: 15px;outline-color: orangered;margin-top:100PX;border-radius: 15px;margin-bottom: 15px;font-size: small;margin-left: 400px;margin-right: 400px;overflow: hidden;
 }
 
 body{
