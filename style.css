@@ -29,7 +29,7 @@ background-color: rgb(53, 53, 53);
     color: blue;
 }
 
-@media only screen and (max-width:414px){
+@media  screen (max-width:414px){
     .text{
         visibility: collapse;
     }
